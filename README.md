@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on expanding my knowledge in programming and game design by making an escape room game.<br>The idea is not new and it has been done before, but I do this as a learning experience.<br>I am working on making my own assets and designing the levels in Unity.<br><br>🌱 I’m currently learning game development and design.<br><br>⚡ Fun fact about me is that I can solve a Rubik's cube under a minute.
+🔭 I'm a programmer always working to stay up-to-date with the latest trends and sharpening my skills. While there may not be constant updates on my GitHub, I’m consistently experimenting with new technologies, creating custom projects, and diving into both programming fundamentals and advanced concepts to improve my craft.<br><br>🌱 Programming, with a focus on web development and game design.<br><br>⚡ Fun fact about me is that I can solve a Rubik's cube under a minute.
 
 
 ## 🌐 Socials:
